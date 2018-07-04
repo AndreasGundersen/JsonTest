@@ -1,0 +1,11 @@
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/bin/Debug/netcoreapp2.0/StreamReaderTest.deps.json
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/bin/Debug/netcoreapp2.0/StreamReaderTest.runtimeconfig.json
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/bin/Debug/netcoreapp2.0/StreamReaderTest.runtimeconfig.dev.json
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/bin/Debug/netcoreapp2.0/StreamReaderTest.dll
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/bin/Debug/netcoreapp2.0/StreamReaderTest.pdb
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.csprojResolveAssemblyReference.cache
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.csproj.CoreCompileInputs.cache
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.AssemblyInfoInputs.cache
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.AssemblyInfo.cs
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.dll
+/Users/andreasgundersen/Projects/StreamReaderTest/StreamReaderTest/obj/Debug/netcoreapp2.0/StreamReaderTest.pdb
